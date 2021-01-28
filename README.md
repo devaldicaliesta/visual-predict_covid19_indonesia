@@ -1,2 +1,7 @@
 # visual-predict_covid19_indonesia
-berikut merupakan visual &amp; predic covid-19 di indonesia menggunakan python
+Hallo?
+Tujuan saya membuat repisitory ini untuk sharing hasil coba-coba saya,
+jika ada kekurangan & pertanyaan bisa ditanyakan langsung di menu Discussions
+
+Salam Hangat :)
+
